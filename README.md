@@ -65,3 +65,15 @@ It can be used to understand:
 - How to generate and manage CSV files
 - How to visualize structured data using matplotlib
 - Simple real-world data analysis workflows
+- 
+---
+
+## Tags
+`Python` `Attendance Visualizer` `Pandas` `Matplotlib` `Math` `Data Science` `Portfolio`
+
+---
+
+*Author:* [@g3raldatsc](https://github.com/g3raldatsc)
+<p align="center">
+  <img src="https://media.tenor.com/8b2-2a17wIAAAAAM/wow-world-of-warcraft.gif" width="200" alt="Anime Gif">
+</p>
